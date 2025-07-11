@@ -35,7 +35,21 @@ This project helps users record their daily expenses with categories and dates, 
 * Add filters (e.g., by category or date)
 
 ---
+## 📂 Project Structure
 
+```
+lib/
+├── models/
+│   └── expense.dart
+├── widgets/
+│   ├── expenses.dart
+│   ├── new_expanse.dart
+│   ├── expenses_list.dart
+│   └── expanses_item.dart
+├── main.dart
+```
+
+---
 
 ### 🚀 Getting Started
 

@@ -42,7 +42,7 @@ This project helps users record their daily expenses with categories and dates, 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/username/expenses_app.git
+git clone https://github.com/KhaledBahjat/Expanses.git
 ```
 
 2. Navigate to the project folder:
